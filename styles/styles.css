@@ -6,11 +6,18 @@
     outline: none;
 }
 
-body{
+.body1{
     background-image: url(https://fondosmil.com/fondo/14275.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position-y: 14%;
+}
+
+.body2{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/553/360/non_2x/mountain-and-ocean-background-with-line-art-wave-pattern-abstract-contemporary-aesthetic-backgrounds-landscapes-illustrations-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: 135%;
+    background-position-y:
 }
 
 .formulario{
@@ -22,6 +29,17 @@ body{
     margin-top: 15%;
     margin-left: 30%;
     margin-right: 30%;
+}
+
+.formulario2{
+text-align: center;
+height: -50vh;
+}
+
+.lottie2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* 
