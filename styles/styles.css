@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+body{
+    background-image: url(https://fondosmil.com/fondo/14275.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: 14%;
+}
+
+.formulario{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    text-align: center;
+    background-color: blue;
+    background-image: url(https://i.pinimg.com/originals/05/5b/f5/055bf5050b4d22254e096920f9bef5ce.gif);
+    background-size: 100%;
+    margin-top: 15%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+/* 
+.lottie{
+    background-color: chartreuse;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ */
